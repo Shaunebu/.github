@@ -102,6 +102,6 @@ To deliver high-quality .NET solutions through practical examples and well-archi
 
 ### 🚀 *"Enterprise .NET solutions built with precision and expertise"*
 
-**© 2024 Shaunebu. All rights reserved.**
+**© 2025 Shaunebu. All rights reserved.**
 
 </div>
