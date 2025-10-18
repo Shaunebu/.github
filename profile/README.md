@@ -62,9 +62,9 @@ Be a leading source of open-source .NET libraries and educational resources, emp
 > Key open-source repositories maintained by Shaunebu
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=LocalizationManager.MAUI&theme=transparent&hide_border=true&title_color=512BD4" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=ThemeManager.MAUI&theme=transparent&hide_border=true&title_color=512BD4" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=SessionManager.MAUI&theme=transparent&hide_border=true&title_color=512BD4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=Shaunebu.MAUI.NFC&theme=transparent&hide_border=true&title_color=512BD4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=Shaunebu.MAUI.FloatingChatButton&theme=transparent&hide_border=true&title_color=512BD4" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaunebu&repo=Shaunebu.Azure.AppConfiguration&theme=transparent&hide_border=true&title_color=512BD4" />
 </p>
 
 ---
